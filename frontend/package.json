@@ -1,0 +1,15 @@
+{
+  "name": "metricspilot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo Angular dev server placeholder",
+    "build": "echo Angular build placeholder"
+  },
+  "dependencies": {
+    "@angular/core": "^16.0.0",
+    "@angular/common": "^16.0.0",
+    "@angular/platform-browser": "^16.0.0",
+    "@angular/platform-browser-dynamic": "^16.0.0"
+  }
+}
